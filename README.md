@@ -4,7 +4,7 @@ A growth mindset allows you to approach life with optimism, embrace challanges,
 continuously learn and improve, and adapt to changing circumstances. It empowers you to  
 reach your full potential and make the most out of opportunities that come your way.
 
-<img src="image1.webp" alt="This is a growth minset image" style="width:300px; height:200px;">
+<img src="image1.webp" alt="This is a growth minset image" style="width:350px; height:350px;">
 
 
 ### How to i keep my self in growth mindset?
