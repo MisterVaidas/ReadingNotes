@@ -1,6 +1,10 @@
 # ReadingNotes
 ### Tech Educators
 
-**Document Content**  
-*Document content*  
-_**Document Content**_  
+1. **Document Content**  
+2. *Document content*  
+3. _**Document Content**_  
+
+- item 1  
+- item 2  
+- item 3
