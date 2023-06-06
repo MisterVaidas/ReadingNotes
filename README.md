@@ -8,3 +8,14 @@
 - item 1  
 - item 2  
 - item 3
+
+***
+### About 
+
+text 
+
+*** 
+
+#### Growth Mindset
+
+> bio
