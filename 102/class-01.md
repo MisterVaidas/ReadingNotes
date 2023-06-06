@@ -52,10 +52,10 @@ To create an unordered (bulleted) list in Markdown, we can use one of the follow
 
 We use the chosen symbol, followed by a space, and then the list item text. 
 
-***
-
 ### Summary
 
-> With Markdown, we can create headings, edit text, create links, and format lists  
-> using intuitive symbols and syntax. Markdown can be a valuable toll for enchancing the  
-> readability and presentation of text-based content.
+***
+
+ **With Markdown, we can create headings, edit text, create links, and format lists  
+ using intuitive symbols and syntax. Markdown can be a valuable toll for enchancing the  
+ readability and presentation of text-based content.**
