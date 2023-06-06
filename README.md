@@ -25,4 +25,4 @@ reach your full potential and make the most out of opportunities that come your 
 > Additionaly, i am highly enthusiastic about AI and blockchain technologies. Actively exploring decentralized  
 > applications.
 
-Click [here](https://github.com/MisterVaidas) to access my GitHub profile
+Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
