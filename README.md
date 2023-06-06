@@ -23,3 +23,5 @@ reach your full potential and make the most out of opportunities that come your 
 > With a passion for IT, i am a dedicated learner, who stays up-to-date on the latest trends. 
 > Additionaly, i am highly enthusiastic about AI and blockchain technologies. Actively exploring decentralized  
 > applications.
+
+Click [here](https://github.com/MisterVaidas) to access my GitHub profile
