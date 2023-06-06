@@ -26,3 +26,7 @@ reach your full potential and make the most out of opportunities that come your 
 > applications.
 
 Click [here](https://github.com/MisterVaidas) to access my GitHub profile
+
+## Learning Markdown
+
+[Markdown](/102/class-01.md)
