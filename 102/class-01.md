@@ -40,4 +40,22 @@ replace link text with the text we want to display as the link, and url with the
 URL we want the link to point to.  
 
 For example: [Tech Educators website] (https://www.techeducators.co.uk)  
-will create a link that displays as **"Tech Educators website"** and leads to [www.techeducators.co.uk](https://techeducators.co.uk/)
+will create a link that displays as **"Tech Educators website"** and leads to [www.techeducators.co.uk](https://techeducators.co.uk/).  
+
+### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+
+To create an unordered (bulleted) list in Markdown, we can use one of the following symbols:
+
+* Asterisk ( * )
+* Plus sign ( + )
+* Minus sign ( - )
+
+We use the chosen symbol, followed by a space, and then the list item text. 
+
+***
+
+### Summary
+
+> With Markdown, we can create headings, edit text, create links, and format lists  
+> using intuitive symbols and syntax. Markdown can be a valuable toll for enchancing the  
+> readability and presentation of text-based content.
