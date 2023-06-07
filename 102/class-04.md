@@ -34,11 +34,11 @@ more understandable. Examples of semantic elements: `header`, `nav`, `section`,
 
 ### Summary
 
-> HTML is a markup language used for creating web pages. It consists of opening and
+> **HTML is a markup language used for creating web pages. It consists of opening and
 > closing tags that define the structure of elements, which content placed in between.
 > Attributes can be added to elements to provide additional information. Semantic
 > elements in HTML give meaning to the content and aid in organizing web pages
-> effectively.
+> effectively.**
 
 ***
 
