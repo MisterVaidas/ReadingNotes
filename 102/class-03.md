@@ -31,12 +31,10 @@ command. This command updates the remote repository with local changes.
 
 ## Summary
 
-***
-
-Version control is a crucial tool for managing and tracking changes to files. Git, a popular 
-version control system, allows us to clone remote repositories, track and stage files using 
-the **git add** command, take snapshots of changes with the **git commit** command, and send 
-changes to GitHub using the **git push** command. These commands enable collaboration, history 
-tracking, and efficient code management, ensuring that projects can be easily maintained, 
-shared, and reverted when needed.
+> Version control is a crucial tool for managing and tracking changes to files. Git, a popular 
+> version control system, allows us to clone remote repositories, track and stage files using 
+> the **git add** command, take snapshots of changes with the **git commit** command, and send 
+> changes to GitHub using the **git push** command. These commands enable collaboration, history 
+> tracking, and efficient code management, ensuring that projects can be easily maintained, 
+> shared, and reverted when needed.
 
