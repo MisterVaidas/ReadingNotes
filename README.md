@@ -25,12 +25,8 @@ reach your full potential and make the most out of opportunities that come your 
 > Additionaly, i am highly enthusiastic about AI and blockchain technologies. Actively exploring decentralized  
 > applications.
 
-<<<<<<< HEAD
-Click [here](https://github.com/MisterVaidas) to access my GitHub profile
-
-## Learning Markdown
-
-
-=======
 Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
->>>>>>> 73b73d0037aeb8e6c3d525821cb24b78e0b3e832
+
+#### Learning Markdown
+
+[Markdown](/102/class-01.md)
