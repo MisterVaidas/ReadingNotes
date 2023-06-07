@@ -34,3 +34,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### Version Control
 
 [VersionControl](/102/class-03.md)
+
+#### Learning HTML
+
+[Structure web pages with HTML](/102/class-04.md)
