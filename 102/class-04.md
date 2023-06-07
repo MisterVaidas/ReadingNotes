@@ -44,4 +44,4 @@ more understandable. Examples of semantic elements: `header`, `nav`, `section`,
 
 Thank you for taking your time reading this article. You are always welcome to visit
 my GitHub profile [here](https://github.com/MisterVaidas) and check out my latest work.
-Also, you can follow me on my socials, which you can find on my GitHub profile. 
+Also, you can follow me on my socials, which you can find on my GitHub profile :wink:
