@@ -22,5 +22,21 @@ To take a snapshot of my changed files in Git, i need to create a commit. The **
 commant is used for this purpose. A commit represents a specific point in the project's 
 history and includes a message describing the changes made.
 The syntax for comming changes looks like this:
-**git commit -m "Commit nessage"**
+**git commit -m "Commit message"**
+
+## What is the command to send your changed files to Github?
+
+To send changed files to Github repository, we need to push commits using the **git push** 
+command. This command updates the remote repository with local changes. 
+
+## Summary
+
+***
+
+Version control is a crucial tool for managing and tracking changes to files. Git, a popular 
+version control system, allows us to clone remote repositories, track and stage files using 
+the **git add** command, take snapshots of changes with the **git commit** command, and send 
+changes to GitHub using the **git push** command. These commands enable collaboration, history 
+tracking, and efficient code management, ensuring that projects can be easily maintained, 
+shared, and reverted when needed.
 
