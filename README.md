@@ -38,3 +38,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### Learning HTML
 
 [Structure web pages with HTML](/102/class-04.md)
+
+#### Learning CSS
+
+[Design web pages with CSS](/102/class-05.md)
