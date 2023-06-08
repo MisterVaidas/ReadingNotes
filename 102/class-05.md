@@ -46,4 +46,12 @@ p {
 > across webpages, reducing load times, providing advanced styling options, and enabling 
 > responsive design.**
 
+***
+*
+***
 
+Thank you for reading my page. I hope you find this helpfull. You can also find more
+interesting pages by visiting my GitHub profile. You can access my GitHub profile
+by clicking on GitHub icon bellow :+1:
+
+[![GitHub](/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg){width=50px heigth=50px}](https://github.com/MisterVaidas)
