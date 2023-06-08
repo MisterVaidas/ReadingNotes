@@ -47,11 +47,13 @@ p {
 > responsive design.**
 
 ***
+---
 ***
 
 Thank you for reading my page. I hope you find this helpfull. You can also find more
-interesting pages by visiting my GitHub profile. You can access my GitHub profile
-by clicking on GitHub icon bellow :+1:
+interesting pages by visiting my GitHub profile. Also, please check my socials and 
+don't forget to follow :slightly_smiling_face:. My GitHub profile can easily be
+accessed by clicking on the image bellow:
 
 <a href="https://github.com/MisterVaidas">
   <img src="/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" alt="GitHub" width="200" height="200">
