@@ -47,7 +47,6 @@ p {
 > responsive design.**
 
 ***
----
 ***
 
 Thank you for reading my page. I hope you find this helpfull. You can also find more
