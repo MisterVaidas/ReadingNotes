@@ -42,3 +42,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### Learning CSS
 
 [Design web pages with CSS](/102/class-05.md)
+
+#### Learning JavaScript
+
+[Dynamic web pages with JavaScript](/102/class-06.md)
