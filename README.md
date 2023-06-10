@@ -46,3 +46,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### Learning JavaScript
 
 [Dynamic web pages with JavaScript](/102/class-06.md)
+
+#### More on JavaScript
+
+[Programing with JavaScript](/102/class-07.md)
