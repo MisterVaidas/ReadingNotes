@@ -1,5 +1,9 @@
 # Dynamic web pages with JavaScript
 
+JavaScript is a powerful programming language that enables the creation of dynamic 
+web pages. Dynamic web pages are those that can change and update their content in 
+response to user interactions or other events without requiring a full page reload.
+
 ### What are variables in JavaScript?
 
 In JavaScript, variables are used to store data values. They act as containers 
