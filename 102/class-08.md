@@ -33,8 +33,8 @@ inside the loop will not be executed at all.
 In JavaScript, an expression is a code snippet that produces a value. Loops are 
 used in programming to repeatedly execute a block of code. They are essential for 
 automating repetitive tasks and iterating over data or performing actions until 
-a certain condition is satisfied. A for loop in JavaScript stops executing when 
+a certain condition is satisfied. A `for` loop in JavaScript stops executing when 
 its loop condition becomes false, which is checked before each iteration. On the 
-other hand, a while loop continues executing as long as its condition remains true 
+other hand, a `while` loop continues executing as long as its condition remains true 
 and stops when the condition evaluates to false. The number of iterations in a 
 while loop can vary based on the condition specified within it.
