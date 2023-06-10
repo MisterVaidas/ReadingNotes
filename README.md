@@ -50,3 +50,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### More on JavaScript
 
 [Programing with JavaScript](/102/class-07.md)
+
+#### Learning Operators and Loops
+
+[Operators and Loops](/102/class-08.md)
