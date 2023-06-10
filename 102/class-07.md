@@ -37,3 +37,9 @@ JavaScript functions are reusable blocks of code that perform specific tasks.
 Invoking or calling a function means executing its code. When defining a function, 
 parentheses `()` are used to indicate the parameter list, allowing you to specify 
 the values the function expects to receive.**
+
+***
+
+Thank you for reading this short article. Hope you liked it!
+You can find more of my work by visiting my [GitHub](https://github.com/MisterVaidas) profile.
+Your feedback always welcome!
