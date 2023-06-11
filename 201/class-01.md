@@ -64,7 +64,7 @@ because they allow us to store data and reuse it throughout the program. Without
 would have to write the same code over and over again, which would make code more difficult to 
 read and maintain.
 
-###### Lets move on to **Introduction to HTML**
+##### Lets move on to **Introduction to HTML**
 
 ### A Question: What is an `HTML` attribute?
 
@@ -72,6 +72,33 @@ An `HTML` attribute is a characteristic or property that is used to define the b
 an `HTML` element. Attributes are added to `HTML` tags to provide additional information or instructions 
 about the element. They are typically written as name-value pairs, where the name specifies the attribute, 
 and the value provides the information associated with that attribute.
+
+### Task 3: Describe the Anatomy of an `HTMl` element.
+
+An `HTML` element is made up of three parts:
+
+* Opening tag: The opening tag tells the web browser that we are starting a new element and to add it to 
+  the document tree.
+* Content: The content is the text or other elements that are contained within the element.
+* Closing tag: The closing tag tells the web browser that the element is ending.
+
+### A Question: What is the Difference between `<article>` and `<section>` element tags?
+
+The `<article>` and `<section>` element tags are both used to define sections of content in HTML. However, 
+there are some key differences between the two tags.
+The key difference between `<article>` and `<section>` is that `<article>` is used for self-contained, 
+standalone content that can be distributed independently, while `<section>` is used to group related 
+content together within a document.
+
+| Feature     | `<article>`                                      | `<section>`                                                               |
+|-------------|------------------------------------------------|-------------------------------------------------------------------------|
+| Purpose     | Defines self-contained content                 | Defines larger sections of content                                      |
+| Reusability | Can be reused independently                    | Not necessarily reusable independently                                 |
+| Example     | Blog post, news article, forum post            | Main content area of a web page, sidebar, footer                        |
+
+
+### A Question: What Elements does a “typical” website include?
+
 
 
 
