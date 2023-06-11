@@ -99,7 +99,71 @@ content together within a document.
 
 ### A Question: What Elements does a “typical” website include?
 
+A typical website will include the following elements:
 
+* A header: The header is the topmost part of a web page and typically contains the website's logo, name, 
+  and navigation menu.
+* A nav bar: Located in the top or side of a website, the navigation bar provides links to different pages 
+  or sections of the website.
+* A main content area: This is the main body of the website where the primary content is displayed. It may 
+  include text, images, videos, and other media.
+* A sidebar: The sidebar is a vertical column that runs alongside the main content area. It can be used 
+  for displaying additional information, such as a search bar, social media links, or a contact form.
+* A footer: The footer is the bottommost part of a web page and often contains copyright information, 
+  contact details, and social media links.
 
+### A Question: How does metadata influence Search Engine Optimization?
 
+Metadata is data that provides information about other data. In the context of websites, metadata is 
+information about a web page that is not visible to users. This information can be used by search engines 
+to index websites and rank them in search results.
+The title tag is the most important piece of metadata for SEO. It is the text that appears in the title 
+bar of a web browser and in search results. The title tag should be descriptive and informative, and 
+should include the main keywords that you want your website to rank for.
 
+### A Question: How is the `<meta>` HTML tag used when specifying metadata?
+
+The `<meta>` tag is an important tool for providing information about web pages. By using the `<meta>` tag, 
+you can help search engines, browsers, and other software to understand your pages and how they should 
+be displayed.
+The `<meta>` tag has two attributes:
+
+* name: The name attribute specifies the name of the metadata.
+* content: The content attribute specifies the value of the metadata.
+
+***
+
+## How to start to design a website?
+
+### A Question: What is the first step to designing a Website?
+
+The first step to designing a website is to define our goals. What do we want our website to achieve? 
+Do we want to sell products, provide information, or build a community? Once we know your goals, we 
+can start to plan the content and structure of the website.
+
+### A Question: What is the most important question to answer when designing a Website?
+
+When designing a website, there are several important questions to consider. While the significance of 
+each question may vary depending on the specific context and goals of the website, one crucial question 
+stands out as particularly important:
+
+**What is the primary goal or purpose of the website?**
+
+***
+
+## Semantics
+
+### A Question: Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
+
+`HTML` elements are not just presentational instructions, but they have semantic meanings too. That is, 
+each tag indicates the type and importance of the content within. Here are some reasons why you should 
+use an `<h1>` element over a `<span>` element for a top level heading:
+
+1. **SEO**: Search engines like Google use HTML tags to understand the structure and relevance of your web 
+     page content. The `<h1>` tag is especially important because it is considered as a strong indicator of 
+     the page's main topic. Using `<h1>` for your main heading can help search engines understand your 
+     content better, potentially improving your SEO rankings.
+2. **Accessibility**: Screen readers and other assistive technologies rely on the proper use of HTML 
+     elements to provide a good user experience for individuals with disabilities. Using the correct heading 
+     structure (including the use of `<h1>` for top-level headings) helps these users navigate your content 
+     more easily.
