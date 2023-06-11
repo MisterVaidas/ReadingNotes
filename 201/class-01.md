@@ -47,7 +47,7 @@ There are many ways to find images to add to a website. Here are a few popular o
 * Your own photos: If you have your own photos that you would like to use on your website, you 
   can upload them to your website or use a photo hosting service like Flickr or Photobucket.
 
-### A Question: How do you create a String vs a Number in JavaScript?
+### A Question: How do you create a `String` vs a `Number` in JavaScript?
 
 Here is a table explaining:
 
@@ -57,4 +57,10 @@ Here is a table explaining:
 | Using the `String()` function | `const str2 = String("This is a string");` | Creates a string from a variable that contains a string |
 | Using the `Number()` function | `const num1 = Number("10");`       | Creates a number from a variable that contains a number |
 
+### A Question: What is a `Variable` and why are they important in JavaScript?
+
+A variable is a named location in memory that can store a value. Variables are important in JavaScript 
+because they allow us to store data and reuse it throughout the program. Without variables, we 
+would have to write the same code over and over again, which would make code more difficult to 
+read and maintain.
 
