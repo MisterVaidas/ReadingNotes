@@ -64,3 +64,15 @@ because they allow us to store data and reuse it throughout the program. Without
 would have to write the same code over and over again, which would make code more difficult to 
 read and maintain.
 
+###### Lets move on to **Introduction to HTML**
+
+### A Question: What is an `HTML` attribute?
+
+An `HTML` attribute is a characteristic or property that is used to define the behavior or appearance of 
+an `HTML` element. Attributes are added to `HTML` tags to provide additional information or instructions 
+about the element. They are typically written as name-value pairs, where the name specifies the attribute, 
+and the value provides the information associated with that attribute.
+
+
+
+
