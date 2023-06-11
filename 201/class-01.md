@@ -167,3 +167,71 @@ use an `<h1>` element over a `<span>` element for a top level heading:
      elements to provide a good user experience for individuals with disabilities. Using the correct heading 
      structure (including the use of `<h1>` for top-level headings) helps these users navigate your content 
      more easily.
+3. **Document Structure**: In the same vein, using the `<h1>` tag for top-level headings helps to define the 
+     structure of your page content. HTML5 allows multiple `<h1>` tags per page, each representing the main 
+     title of a section in a document. This can be very useful for user navigation and comprehension.
+4. **Styling**: While both `<h1>` and `<span>` elements can be styled using CSS, it is often easier to achieve 
+     the desired look for a top-level heading using an `<h1>` tag because browsers have built-in styles for 
+     heading tags.
+
+The `<span>` tag, on the other hand, is an inline element with no semantic importance. It's typically used 
+for styling a part of the text, or to apply JavaScript onto an element. If you used a `<span>` to display 
+a top level heading, it would not provide the same benefits in terms of SEO, accessibility, and document 
+structure as an `<h1>`.
+
+### A Question: What are the benefits of using semantic tags in our HTML?
+
+Semantic HTML tags provide many benefits for developers and users. Here is few:
+
+1. **Enhanced Accessibility**: Screen readers, used by visually impaired users, rely on semantic tags to 
+     interpret the content and structure of the webpage. Proper use of these tags ensures a more accessible 
+     and inclusive user experience.
+2. **Improved SEO**: Search engines use semantic tags to understand the content and structure of a webpage. 
+     Using these tags correctly can help improve the visibility of a webpage in search engine results.
+3. **Easier Navigation**: Semantic tags can make it easier for developers to understand and navigate the 
+     structure of a webpage. This can make maintaining and updating the page more efficient.
+4. **Consistency**: Using semantic tags can help ensure consistency in the design and layout of a webpage. 
+     For example, using the `<header>`, `<footer>`, and `<nav>` tags can help maintain consistent page headers, 
+     footers, and navigation bars.
+5. **Compatibility**: Using semantic HTML helps ensure that a webpage will be compatible with future versions 
+     of HTML. This can make maintaining and updating the page easier in the long term.
+6. **Styling**: Semantic tags can also make it easier to style a webpage using CSS. For example, you can style 
+     all `<article>` elements in the same way, rather than having to select them individually or by class or id.
+7. **Machine Reading**: Semantic tags provide a standard and structured way for machines to read and 
+     understand web content, which is not only useful for search engines, but also for web services, browser tools, 
+     plugins, and other forms of automation. 
+
+***
+
+## What is JavaScript?
+
+### A Quostion: Describe 2 things that require JavaScript in the Browser?
+
+1. **Dynamic Web Content:** JavaScript is primarily used to create dynamic content on websites. Without 
+     JavaScript, web pages would be static, meaning that they would display the same content every time they 
+     are loaded, without any interaction. With JavaScript, developers can manipulate the DOM (Document Object Model), 
+     change styles and content on the fly, and create a more interactive experience for the user. This includes 
+     features like image sliders, content that loads only when you scroll down (lazy loading), form validation 
+     on the client side, expandable menus, animations, and much more.
+2. **Single Page Applications (SPAs):** Modern web frameworks like React, Angular, and Vue.js are based on 
+     JavaScript and are used to build Single Page Applications (SPAs). These are web applications that load a 
+     single HTML page and dynamically update that page as the user interacts with the app. SPAs work inside a 
+     browser and do not require page reloading during use, which significantly improves the user experience. 
+     Google Maps is a great example of an SPA; you can pan and zoom around the map, see different layers of 
+     information, search for places, get directions, and much more, all without ever leaving the page.
+
+### A Question: How can you add JavaScript to an HTML document?
+
+JavaScript can be added to an HTML document in three primary ways:
+
+1. **Inline JavaScript:** Inline JavaScript is directly embedded into an HTML element using the `onclick`, 
+     `onload`, `onmouseover`, etc., event attributes.
+2. **Internal JavaScript:** Internal JavaScript is written within `<script>` tags in the HTML document itself. 
+     This method is suitable for small amounts of JavaScript code.
+3.  **External JavaScript:** In this method, the JavaScript code is placed in a separate file (usually with 
+     a .js extension), and this file is linked to the HTML document using the `src` attribute in the `<script>` 
+     tag.
+
+***
+
+Thank you for taking your time reading this. Please follow this [link](https://github.com/MisterVaidas) to my GitHub profile.
