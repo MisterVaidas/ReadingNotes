@@ -1,7 +1,7 @@
 # Read: Class 01 Assignment
 
-A lot of articles i read in this lecture, so i will try to discuss here
-what i learned. Lets begin!
+I read a lot of articles in this lecture, so i will try to discuss them all in here.
+Let's begin!
 
 ### Task 1: Compose a short poem describing how `HTTP` sends data between computers.
 
