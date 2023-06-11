@@ -54,3 +54,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### Learning Operators and Loops
 
 [Operators and Loops](/102/class-08.md)
+
+#### Lab 201 class 01
+
+[Dive deaper to HTML, CSS and JavaScript](/201/class-01.md)
