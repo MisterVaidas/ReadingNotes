@@ -55,8 +55,10 @@ There are several ways to apply CSS to HTML:
 2. Which components are the CSS declarations?
 3. Which components are considered properties?
 
-  ``` h2 {
+  ``` 
+  h2 {
      color: black;
      padding: 5px;
-   }```
+   }
+   ```
 
