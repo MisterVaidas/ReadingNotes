@@ -58,3 +58,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### Lab 201 class 01
 
 [Dive deaper to HTML, CSS and JavaScript](/201/class-01.md)
+
+#### Lab 201 class 02
+
+[Basics of HTML, CSS & JS](/201/class-02.md)
