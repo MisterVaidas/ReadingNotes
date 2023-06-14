@@ -61,4 +61,63 @@ There are several ways to apply CSS to HTML:
      padding: 5px;
    }
    ```
+* The selector is represented by `h2`. It targets all `<h2>` elements in the HTML document.
+* The CSS declarations are `color: black;` and `padding: 5px;`. They specify the styles to be applied to the 
+  selected `<h2>` elements.
+* Within each declaration, `color` and `padding` are considered properties.
 
+***
+
+## Learn JS
+
+### What data type is a sequence of text enclosed in single quote marks?
+
+In JavaScript, a sequence of text enclosed in single quote marks `(' ')` or double quote marks `(" ")` is considered a string. 
+JavaScript allows the use of both single quotes and double quotes to define strings.
+
+### List 4 types of JavaScript operators.
+
+Here are four types of JavaScript operators:
+
+* Arithmetic Operators
+* Comparison Operators
+* Logical Operators
+* Assignment Operators
+
+### Describe a real world Problem you could solve with a Function.
+
+A real-world problem that can be solved using a function is calculating the total cost of items in a shopping cart. 
+Let's consider an e-commerce website where users can add multiple items to their shopping carts. Each item has a 
+price associated with it. To calculate the total cost, we can define a function that takes an array of items and 
+returns the sum of their prices.
+
+## Making decisions in our code
+
+### An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+
+An if statement checks a `condition` and if it evaluates to `true`, then the code block will execute.
+
+### What is the use of an `else if`?
+
+The "else if" statement is used in programming to provide an alternative condition to check if the initial "if" 
+condition evaluates to false. It allows for multiple conditions to be evaluated sequentially, providing different 
+code blocks to be executed based on the condition that evaluates to true.
+
+### List 3 different types of comparison operators.
+
+Here is three different types of comparison operators:
+
+* Equality Operator (==)
+* Greater Than Operator (>)
+* Not Equal Operator (!=)
+
+### What is the difference between the logical operator && and ||?
+
+The `&&` operator returns `true` if both of its operands are `true`. If either operand is `false`, the `&&` 
+operator returns `false`.
+The `||` operator returns `true` if either of its operands is `true`. If both operands are `false`, the `||` 
+operator returns `false`.
+
+***
+
+Vaidas Simkus. Please visit my [GitHub](https://github.com/MisterVaidas) profile. 
