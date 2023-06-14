@@ -136,3 +136,88 @@ const thirdName = people[2][0];
 console.log(thirdName); // The outcome in console will be: bill
 
 ```
+
+### List five shorthand operators for assignment in javascript and describe what they do.
+
+Here are five shorthand operators for assignment in JavaScript and what they do:
+
+1. `+=` : This operator adds the value of the right operand to the value of the left operand and assigns the 
+   result to the left operand. For example, `let x = 10; x += 5;` will set `x` to `15`.
+2. `-=` : This operator subtracts the value of the right operand from the value of the left operand and assigns 
+   the result to the left operand. For example, `let x = 10; x -= 5;` will set `x` to `5`.
+3. `*=` : This operator multiplies the value of the right operand by the value of the left operand and assigns 
+   the result to the left operand. For example, `let x = 10; x *= 5;` will set `x` to `50`.
+4. `/=` : This operator divides the value of the left operand by the value of the right operand and assigns the 
+   result to the left operand. For example, `let x = 10; x /= 5;` will set `x` to `2`.
+5. `%=` : This operator takes the modulus of the value of the left operand by the value of the right operand and 
+   assigns the result to the left operand. For example, `let x = 10; x %= 5;` will set `x` to `0`.
+
+### Read the code below and evaluate the last expression and explain what the result would be and why.
+
+```
+ let a = 10;
+ let b = 'dog';
+ let c = false;
+
+ // evaluate this
+ (a + c) + b;
+
+ ```
+When evaluating (a + c), JavaScript tries to convert the boolean value c into a number before performing the 
+addition. In JavaScript, false is converted to 0 when used in a numeric context. Therefore, (a + c) is equal 
+to 10 + 0, which results in 10.
+
+Then, the expression becomes 10 + b. In JavaScript, the + operator is also used for string concatenation when 
+one of the operands is a string. Since b is a string ('dog'), the result of the expression is the concatenation 
+of the string '10' and the string 'dog', resulting in the string '10dog'.
+
+### Describe a real world example of when a conditional statement should be used in a JavaScript program.
+
+A real-world example of when a conditional statement should be used in a JavaScript program is in a weather 
+application that provides different recommendations based on the current weather conditions.
+
+Here is an example of weather application that displays a recommendation for outdoor activities based on the 
+current temperature:
+
+```
+let temperature = 25; // Assume the temperature is obtained from an API or user input
+
+if (temperature >= 30) {
+  console.log("It's a hot day! You may want to go swimming.");
+} else if (temperature >= 20) {
+  console.log("The weather is pleasant. You can go for a walk.");
+} else {
+  console.log("It's a bit chilly. You might want to stay indoors.");
+}
+
+```
+
+In this case, the output in console will be: 
+
+`The weather is pleasant. You can go for a walk.`
+
+### Give an example of when a `Loop` is useful in JavaScript.
+
+One example of when a loop is useful in JavaScript is when we want to iterate over an array and perform a certain 
+action on each element. Let's say we have an array of numbers and we want to calculate the sum of all the numbers 
+in the array.
+
+Here is an example:
+
+```
+
+const numbers = [1, 2, 3, 4, 5];
+let sum = 0;
+
+for (let i = 0; i < numbers.length; i++) {
+  sum += numbers[i];
+}
+
+console.log(sum); // Output: 15
+
+```
+This allows us to calculate the sum of all the numbers in the array without having to write repetitive code 
+for each element.
+
+***
+Created by Vaidas Simkus. Please visit my [GitHub](https://github.com/MisterVaidas) profile
