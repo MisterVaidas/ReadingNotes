@@ -52,14 +52,17 @@ Okay, here is the story created by AI. Hope you like it!
 Once upon a time in the land of Webville, there existed a small village called Layoutville, where 
 all the elements of the web resided. The village was a harmonious place, with each element playing 
 its unique role in the grand design of the web.
+
 In the heart of Layoutville, there stood a majestic castle known as "The Box Model." The Box Model 
 was the ruler of all elements, dictating their positioning and appearance. It had a regal presence, 
 adorned with various properties that defined its form.
+
 At the entrance of The Box Model's castle, two loyal characters named Margin and Padding stood guard. 
 Margin was a poised and elegant character, dressed in a fine attire of empty space. It was responsible 
 for creating a buffer zone around The Box Model, ensuring it had a respectable distance from other 
 elements. Margin had a remarkable ability to create an aura of separation, maintaining order and 
 preventing unwanted collisions among neighboring elements.
+
 On the other hand, Padding, a warm and friendly character, had a different role. Clad in a soft and 
 cushiony outfit, Padding took care of The Box Model's internal comfort. Its duty was to create a cozy 
 space within the castle, protecting the content from the rigid walls. Padding embraced the content, 
@@ -68,16 +71,19 @@ Together, Margin and Padding formed a powerful duo, working in harmony to create
 for The Box Model. They understood that too much space or too little padding could disrupt the 
 harmony, leading to a messy and disorganized layout. Their roles were vital in ensuring that 
 The Box Model's castle was both aesthetically pleasing and functional.
+
 One day, a mischievous element named Overflow attempted to invade The Box Model's castle. Overflow 
 was known for its unruly behavior, often disregarding the rules of the layout. But Margin and Padding 
 were prepared. Margin, with its strategic positioning, acted as a shield, warding off the intruder 
 and preventing it from trespassing into The Box Model's space. Meanwhile, Padding acted as a barrier, 
 containing Overflow's reckless behavior within the castle walls, protecting the rest of Layoutville 
 from its chaos.
+
 The villagers of Layoutville admired Margin and Padding for their unwavering dedication to order and 
 structure. They recognized the significance of these characters in maintaining a peaceful and 
 organized web layout. Whenever elements needed assistance with their positioning or content alignment, 
 Margin and Padding were there, ready to lend their expertise.
+
 And so, the story of The Box Model and its loyal companions, Margin and Padding, continued in 
 Layoutville, where harmony and structure prevailed. With their guidance, the elements of the web 
 lived happily ever after, creating beautiful and well-organized experiences for all who visited their 
@@ -119,3 +125,14 @@ inside an array, including:
  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 
  ```
+
+ Yes, the `people` array provided is a valid JavaScript array. To access the values stored in this array, 
+ we can use array indexing.
+
+ For example, if we want to access the name from the third inner array, we write following comand:
+
+```
+const thirdName = people[2][0];
+console.log(thirdName); // The outcome in console will be: bill
+
+```
