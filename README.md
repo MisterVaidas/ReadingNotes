@@ -70,3 +70,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 201 class 04
 
 [Readings: HTML Links, JS Functions, and Intro to CSS Layout](/201/class-04.md)
+
+#### 201 class 05
+
+[Readings: Images, Color, Text](/201/class-05.md)
