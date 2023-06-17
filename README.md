@@ -66,3 +66,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 201 class 03
 
 [Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](/201/class-03.md)
+
+#### 201 class 04
+
+[Readings: HTML Links, JS Functions, and Intro to CSS Layout](/201/class-04.md)
