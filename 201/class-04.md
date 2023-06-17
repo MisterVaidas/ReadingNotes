@@ -125,7 +125,7 @@ Here are two benefits of pair programming and how they could help me on my codin
 2. **Increased learning:** Pair programming is a great way to learn new things. I can learn from my partner's experience, and 
    i can also learn by teaching my partner what i know.
 
-   ***
+***
 
-   Created by Vaidas Simkus  
-   Please visit my [GitHub](https://github.com/MisterVaidas) profile
+Created by Vaidas Simkus  
+Please visit my [GitHub](https://github.com/MisterVaidas) profile
