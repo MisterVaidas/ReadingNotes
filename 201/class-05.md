@@ -45,9 +45,9 @@ is an example how to do this:
 ### Describe the difference between a `gif` image and an `svg` image, pretend you are explaining to an elder in your community.
 
 GIF and SVG are two different types of image formats. GIF stands for Graphics Interchange Format, while SVG stands for 
-Scalable Vector Graphics.
+Scalable Vector Graphics.  
 GIF images are made up of a series of raster images, which means that they are made up of a grid of pixels. This means that 
-GIF images can only be displayed at a certain size, and they will look blurry if they are scaled up or down.
+GIF images can only be displayed at a certain size, and they will look blurry if they are scaled up or down.  
 SVG images, on the other hand, are made up of vector images, which means that they are made up of mathematical equations. 
 This means that SVG images can be scaled to any size without losing quality.
 
@@ -55,7 +55,7 @@ This means that SVG images can be scaled to any size without losing quality.
 
 I would use the PNG image type to display a screenshot on my website. PNG images are lossless, which means that they retain 
 all of the original image data. This makes them ideal for screenshots, which often contain text and other details that can 
-be lost in a lossy format like JPEG.
+be lost in a lossy format like JPEG.  
 PNG images are relatively small in file size, which is important for websites as it helps to keep loading times fast. This is 
 especially important for screenshots, which are often used on pages that are loaded quickly, such as news articles or blog posts.
 PNG images are supported by all major web browsers, so you can be sure that your screenshots will be displayed correctly on 
