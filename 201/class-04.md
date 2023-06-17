@@ -127,5 +127,5 @@ Here are two benefits of pair programming and how they could help me on my codin
 
    ***
 
-   Created by Vaidas Simkus
+   Created by Vaidas Simkus  
    Please visit my [GitHub](https://github.com/MisterVaidas) profile
