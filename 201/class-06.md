@@ -72,4 +72,25 @@ a programmatic way. Here is some benefits using DOM:
 * It is supported by all major web browsers.
 * It is powerful tool for developing web applications.
 
+### Briefly describe the relationship between the DOM and JavaScript.
+
+JavaScript uses the DOM to interact with the HTML and CSS of a web page. When a JavaScript program is executed, it 
+creates a DOM object for the current web page. The DOM object provides a way for the JavaScript program to access 
+and manipulate the HTML and CSS of the web page.  
+
+This JavaScript code uses DOM to change the text content of an HTML element:
+
+```
+let element = document.getElementById("myElement");
+element.textContent = "This is my new text content";
+```
+The DOM and JavaScript are two essentil technologies for creating interactive web pages.
+
+***
+
+Created by Vaidas Simkus  
+Please visit my [GitHub](https://github.com/MisterVaidas)
+
+
+
 
