@@ -78,3 +78,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 201 class 06
 
 [Readings: Problem Domain, Objects, and the DOM](/201/class-06.md)
+
+#### 201 class 07
+
+[Readings: Object-Oriented Programming, HTML Tables](/201/class-07.md)
