@@ -82,3 +82,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 201 class 07
 
 [Readings: Object-Oriented Programming, HTML Tables](/201/class-07.md)
+
+#### 201 class 08
+
+[Readings: CSS Layout](/201/class-08.md)
