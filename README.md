@@ -86,3 +86,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 201 class 08
 
 [Readings: CSS Layout](/201/class-08.md)
+
+#### 201 class 09
+
+[Readings: Forms and JS Events](/201/class-09.md)
