@@ -50,15 +50,15 @@ Here are 3 different chart types you can create using Chart.js:
 
 1. **Line chart:** A line chart is a type of chart that shows the relationship between two variables over time.
 
-    ![LineChart](lineChart.jpg)
+    ![LineChart](/lineChart.jpg)
 
 2. **Bar chart:** A bar chart is a type of chart that shows the comparison of different values. 
 
-    ![BarChart](barChart.png)
+    ![BarChart](/barChart.png)
 
 3. **Pie chart:** A pie chart is a type of chart that shows the distribution of a value.
 
-    ![PieChart](pieChart.jpg)
+    ![PieChart](/pieChart.jpg)
 
 ***
 
