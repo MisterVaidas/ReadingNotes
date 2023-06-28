@@ -95,6 +95,10 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 
 [Readings: Debugging](/201/class-10.md)
 
-### 201 class 11
+#### 201 class 11
 
 [Readings: Audio, Video, Images](/201/class-11.md)
+
+#### 201 class 12
+
+[Readings: Chart.js, Canvas](/201/class-12.md)
