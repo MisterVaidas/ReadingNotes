@@ -102,3 +102,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 201 class 12
 
 [Readings: Chart.js, Canvas](/201/class-12.md)
+
+#### 201 class 13
+
+[Readings: Local Storage](/201/class-13.md)
