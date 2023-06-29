@@ -106,3 +106,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 201 class 13
 
 [Readings: Local Storage](/201/class-13.md)
+
+#### 201 class 14
+
+[Readings: CSS Transitions and Animations](/201/class-14.md)
