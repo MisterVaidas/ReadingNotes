@@ -110,3 +110,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 201 class 14
 
 [Readings: CSS Transitions and Animations](/201/class-14.md)
+
+#### 301 class 01
+
+[Readings: Introduction to React and Components](/301/class-01.md)
