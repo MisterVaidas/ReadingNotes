@@ -114,3 +114,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 301 class 01
 
 [Readings: Introduction to React and Components](/301/class-01.md)
+
+#### 301 class 02
+
+[Readings: State and Props](/301/class-02.md)
