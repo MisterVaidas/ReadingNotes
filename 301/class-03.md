@@ -177,4 +177,5 @@ trigger the code inside the method that was defined in the parent component.
 ***
 
 Created by Vaidas Simkus  
-Please visit my [GitHub](https://github.com/MisterVaidas) profile.
+Please visit my [GitHub](https://github.com/MisterVaidas) profile.  
+Resources used: Google, GoogleAI
