@@ -118,3 +118,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 301 class 02
 
 [Readings: State and Props](/301/class-02.md)
+
+#### 301 class 03
+
+[Readings: Passing Functions as Props](/301/class-03.md)
