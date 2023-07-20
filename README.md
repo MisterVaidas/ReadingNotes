@@ -122,3 +122,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 301 class 03
 
 [Readings: Passing Functions as Props](/301/class-03.md)
+
+#### 301 class 04
+
+[Readings: React and Forms](/301/class-04.md)
