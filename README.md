@@ -130,3 +130,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 301 class 05
 
 [Readings: Putting it all together](/301/class-05.md)
+
+#### 301 class 06
+
+[Readings: REST](/301/class-06.md)
