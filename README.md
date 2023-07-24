@@ -134,3 +134,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 301 class 06
 
 [Readings: REST](/301/class-06.md)
+
+#### 301 class 07
+
+[Readings: NODE.js](/301/class-07.md)
