@@ -142,3 +142,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 301 class 08
 
 [Readings: APIs](/301/class-08.md)
+
+#### 301 class 09
+
+[Readings: Functional Programming](/301/class-09.md)
