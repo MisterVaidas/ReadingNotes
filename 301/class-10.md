@@ -95,5 +95,5 @@ console.log(myVariable);
 ***
 
 Created by Vaidas Simkus.  
-Please visit my [GitHub](https://github.com/MisterVaidas) profile.
+Please visit my [GitHub](https://github.com/MisterVaidas) profile.  
 Reasources and tools used: Google, GoogleAI.
