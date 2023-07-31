@@ -18,31 +18,31 @@
 
 ### What kind of data is a good fit for an `SQL` database?
 
-SQL databases are a good fit for data that is:
+`SQL` databases are a good fit for data that is:
 
-* **Structured**: SQL databases store data in tables, which are made up of rows and columns. Each row represents a single record, and each column represents a single attribute of that record. This makes it easy to query and manipulate structured data.
+* **Structured**: `SQL` databases store data in tables, which are made up of rows and columns. Each row represents a single record, and each column represents a single attribute of that record. This makes it easy to query and manipulate structured data.
 
-* **Relational**: SQL databases use a relational data model, which means that data is stored in tables that are related to each other. This makes it easy to join tables together and to perform complex queries.
+* **Relational**: `SQL` databases use a relational data model, which means that data is stored in tables that are related to each other. This makes it easy to join tables together and to perform complex queries.
 
-* **Transactional**: SQL databases are designed to support transactions, which are a unit of work that must be completed all at once or not at all. This makes SQL databases a good choice for applications that require data integrity.
-
-### Give a real world example.
-
-E-commerce websites: E-commerce websites store data such as product information, customer orders, and shipping information. This data is typically stored in an SQL database, as it is structured and relational.
-
-### What kind of data is a good fit a NoSQL database?
-
-NoSQL databases are a good fit for data that is:
-
-* **Unstructured**: Unstructured data does not have a predefined schema, which makes it difficult to store and query in an SQL database. NoSQL databases are designed to store and query unstructured data.
-
-* **High-volume**: NoSQL databases are designed to scale to handle large volume of data.
-
-* **Real-time**: NoSQL databases are well-suited for real-time applications, where data needs to be processed and responded to quickly.
+* **Transactional**: `SQL` databases are designed to support transactions, which are a unit of work that must be completed all at once or not at all. This makes `SQL` databases a good choice for applications that require data integrity.
 
 ### Give a real world example.
 
-**Social media platforms**: Social media platforms such as Twitter, Facebook, and Instagram store a massive amount of unstructured data, such as user posts, comments, and likes. This data is typically stored in a NoSQL database, as it is not possible to define a predefined schema for this type of data. NoSQL databases allow social media platforms to store and query this data quickly and efficiently.
+E-commerce websites: E-commerce websites store data such as product information, customer orders, and shipping information. This data is typically stored in an `SQL` database, as it is structured and relational.
+
+### What kind of data is a good fit a `NoSQL` database?
+
+`NoSQL` databases are a good fit for data that is:
+
+* **Unstructured**: Unstructured data does not have a predefined schema, which makes it difficult to store and query in an `SQL` database. `NoSQL` databases are designed to store and query unstructured data.
+
+* **High-volume**: `NoSQL` databases are designed to scale to handle large volume of data.
+
+* **Real-time**: `NoSQL` databases are well-suited for real-time applications, where data needs to be processed and responded to quickly.
+
+### Give a real world example.
+
+**Social media platforms**: Social media platforms such as Twitter, Facebook, and Instagram store a massive amount of unstructured data, such as user posts, comments, and likes. This data is typically stored in a `NoSQL` database, as it is not possible to define a predefined schema for this type of data. `NoSQL` databases allow social media platforms to store and query this data quickly and efficiently.
 
 ### Which type of database is best for hierarchical data storage?
 
@@ -56,17 +56,17 @@ There are two main types of databases that are well-suited for hierarchical data
 
 There are two main types of databases that are well-suited for scalability:
 
-* **NoSQL databases**: NoSQL databases are designed to be scalable, and they can be horizontally scaled by adding more nodes to the database cluster.
+* **NoSQL databases**: `NoSQL` databases are designed to be scalable, and they can be horizontally scaled by adding more nodes to the database cluster.
 
-* **NewSQL databases**: NewSQL databases are a hybrid of relational and NoSQL databases, and they offer the scalability of NoSQL databases with the ACID guarantees of relational databases.
+* **NewSQL databases**: NewSQL databases are a hybrid of relational and `NoSQL` databases, and they offer the scalability of `NoSQL` databases with the ACID guarantees of relational databases.
 
 ***
 
-## sql vs nosql 
+## `sql` vs `nosql` 
 
-### What does SQL stand for?
+### What does `SQL` stand for?
 
-SQL stands for Structured Query Language.
+`SQL` stands for **Structured Query Language**.
 
 ### What is a relational database?
 
@@ -90,9 +90,9 @@ A `NoSQL` database is a non-relational database that does not use the relational
 
 ### What is inside of a MongoDB database?
 
-A MongoDB database is a collection of collections, which are in turn collections of documents.
+A **MongoDB** database is a collection of collections, which are in turn collections of documents.
 
-Here is an example of a MongoDB document:
+Here is an example of a **MongoDB** document:
 
 ```
 {
@@ -109,13 +109,13 @@ Here is an example of a MongoDB document:
 }
 ```
 
-### Which is more flexible - SQL or MongoDB? and why.
+### Which is more flexible - `SQL` or **MongoDB**? and why.
 
-`MongoDB` is generally considered to be more flexible than `SQL`. This is because MongoDB is a schema-less database, which means that the structure of the data can change over time. This makes MongoDB well-suited for storing data that is not well-structured.
+**MongoDB** is generally considered to be more flexible than `SQL`. This is because **MongoDB** is a schema-less database, which means that the structure of the data can change over time. This makes **MongoDB** well-suited for storing data that is not well-structured.
 
 `SQL` databases are schema-based databases. This means that the structure of the data must be defined in advance. This can make `SQL` databases less flexible, as it can be difficult to change the structure of the data after it has been created.
 
-Here is a table that summarizes the flexibility of SQL and MongoDB:
+Here is a table that summarizes the flexibility of SQL and **MongoDB**:
 
 | Feature                         | SQL        | MongoDB    |
 |-------------------------------- | ---------- | ---------- |
