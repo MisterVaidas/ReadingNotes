@@ -154,3 +154,7 @@ Click [here](https://github.com/MisterVaidas) to access my GitHub profile :+1:
 #### 301 class 11
 
 [Readings: MongoDB and Mongoose](/301/class-11.md)
+
+#### 301 class 12
+
+[Reading: CRUD](/301/class-12.md)
