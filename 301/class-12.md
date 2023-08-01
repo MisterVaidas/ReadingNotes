@@ -43,6 +43,75 @@ The HTTP status code `403 Forbidden` indicates that the server understood the re
 
 ***
 
+## Build A REST API With Node.js, Express, & MongoDB - Quick
+
+### Why do we need to pull our MongoDB database string out of our server and put it into our `.env`?
+
+There are a few reasons why we need to pull our MongoDB database string out of our server and put it into our .env file.
+
+* **Security**: Storing the database string in the server code makes it visible to anyone who has access to the code.
+
+* **Portability**: If we want to deploy our app to a different environment, we will need to update the database string in the server code.
+
+* **Ease of use**: Storing the database string in the `.env` file makes it easy to change the database configuration.
+
+### What is middleware?
+
+Middleware is software that sits between the operating system and applications running on it. It provides services to applications beyond those available from the operating system.
+
+### What does `app.use(express.json())` do?
+
+The `app.use(express.json())` middleware in Express parses incoming requests with JSON payloads and puts the parsed data in `req.body`. This middleware is used to handle requests that contain JSON data.
+
+### What does the /:id mean in a route?
+
+The `/:id` in a route is a placeholder for a dynamic parameter. The `id` parameter will be replaced with the value that is passed in the request URL.
+
+### What is the difference between `PUT` and `PATCH`?
+
+`PUT` and `PATCH` are both HTTP methods that are used to update resources.
+
+Here is a table that summarizes the key differences between `PUT` and `PATCH`:
+
+| Feature                           | PUT   | PATCH |
+|---------------------------------- | ----- | ----- |
+| Updates the entire resource       | Yes   | No    |
+| Updates only the specified fields | No    | Yes   |
+| Idempotent                        | Yes   | No    |
+
+
+### How do you make a default value in a schema?
+
+To make a default value in a schema, we can use the default keyword. The default keyword takes a value that will be used if the field is not explicitly set.
+
+Here is an example:
+
+```
+const schema = {
+  name: {
+    type: String,
+    default: "John Doe"
+  }
+};
+```
+
+### What does a `500` error status code mean?
+
+A `500` error is a generic error code that means something went wrong on the server. It's a catch-all error code for any unexpected errors that occur on the server side.
+
+### What is the difference between a status 200 and a status 201?
+
+Here is a table that summarizes the key differences between status code 200 and status code 201:
+
+| Feature                                     | Status Code 200 | Status Code 201 |
+|-------------------------------------------- | --------------- | --------------- |
+| Indicates that the request was successful   | Yes             | Yes             |
+| Indicates that the resource was retrieved   | Yes             | No              |
+| Indicates that a new resource was created   | No              | Yes             |
+
+
+***
+
 Created by Vaidas Simkus.  
 Please visit my [GitHub](https://github.com/MisterVaidas) profile.  
 Reasources and tools used: Google, GoogleAI
